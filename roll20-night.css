@@ -3,7 +3,6 @@
     --dark-gray-disabled-D90: transparant !important;
 }
 
-.sheet-darkmode .licensecontainer .container:not(.npc) .attributes-container,
-.licensecontainer .container:not(.npc) .attributes-container {
+.sheet-darkmode  .attributes-container {
     background: transparent !important;
 }
