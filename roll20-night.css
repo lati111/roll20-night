@@ -2,3 +2,8 @@
     --dark-gray-enabled: transparant !important;
     --dark-gray-disabled-D90: transparant !important;
 }
+
+.sheet-darkmode .licensecontainer .container:not(.npc) .attributes-container,
+.licensecontainer .container:not(.npc) .attributes-container {
+    background: transparent !important;
+}
